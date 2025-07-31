@@ -67,6 +67,30 @@ This dashboard is designed to track and analyze recruitment and hiring activitie
 ⚫The majority of hires were within the 31–40 age group, followed by the 21–30 range, with an average age of 32.08 for males and 31.90 for females.
 
 
+# Suggestion
+
+⚫ Optimize Vendor performance – Review delays, enforce SLAs.
+
+⚫ Leverage fast sources – Focus on Direct, Portal, Campus.⚫Monitor high compensation outliers: Identify roles or hires with unusually high salaries and assess alignment with internal benchmarks.
+
+# Notes
+
+⚫ Employee763 excluded due to incomplete data fields
+
+⚫ Employee673 DOB corrected from 2994 to 1994
+
+⚫ DOB clarification needed for Employee624 and 654
+
+⚫ Negative TAT due to selection year oversight
+
+
+
+<img width="1295" height="475" alt="image" src="https://github.com/user-attachments/assets/d0952b61-65c3-4ba8-ba70-14eeec4929c6" />
+
+
+
+
+
 
 <img width="1403" height="790" alt="image" src="https://github.com/user-attachments/assets/35e13a88-7ad5-4e3f-956e-a3ee008eb819" />
 
