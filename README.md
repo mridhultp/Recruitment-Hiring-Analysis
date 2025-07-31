@@ -76,16 +76,6 @@ This dashboard is designed to track and analyze recruitment and hiring activitie
 
 ⚫Monitor high compensation outliers: Identify roles or hires with unusually high salaries and assess alignment with internal benchmarks.
 
-# Notes
-
-⚫ Employee763 excluded due to incomplete data fields
-
-⚫ Employee673 DOB corrected from 2994 to 1994
-
-⚫ DOB clarification needed for Employee624 and 654
-
-⚫ Negative TAT due to selection year oversight
-
 
 
 
