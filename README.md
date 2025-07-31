@@ -15,7 +15,7 @@ Basiucally every reporting analyst have analyse if business goals are met accura
 
 
 
-# Hiring Volume and Timeline
+# Hiring Volume
 
 ⚫Out of 762 onboarded candidates, 431 (56.56%) were hired within TAT, while 331 (43.44%) exceeded the defined timelines.
 
