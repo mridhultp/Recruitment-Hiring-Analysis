@@ -1,7 +1,7 @@
 # Recruitment-Hiring-Analysis (WIP - Excel-Dashboard)
 
 
-Basiucally every reporting analyst have analyse if business goals are met accurately within SLA. Here Im trying to analyse the 
+This dashboard is designed to track and analyze recruitment and hiring activities within an organization. It consolidates key recruitment metrics and visualizations to help stakeholders monitor hiring trends, employee demographics, and compensation patterns. Basically every reporting analyst analyses if business goals are met accurately within SLA. Here I’m trying to analyse the HR data with both Power BI and Excel.
 
 
 
@@ -11,6 +11,8 @@ Basiucally every reporting analyst have analyse if business goals are met accura
 <img width="1447" height="546" alt="image" src="https://github.com/user-attachments/assets/b055a648-e0b3-43fa-84be-f7947a589c38" />
 
 
+
+<img width="1403" height="790" alt="image" src="https://github.com/user-attachments/assets/35e13a88-7ad5-4e3f-956e-a3ee008eb819" />
 
 
 
@@ -71,12 +73,4 @@ Basiucally every reporting analyst have analyse if business goals are met accura
 
 
 
-
-
-
-
-
-
-
-
-Note: Data doesn't have any confidential information and worked on the dummy data.
+**Note:** Data doesn't have any confidential information and worked on the dummy data.
