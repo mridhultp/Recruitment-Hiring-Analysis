@@ -8,7 +8,11 @@ This dashboard is designed to track and analyze recruitment and hiring activitie
 
 <img width="1435" height="497" alt="image" src="https://github.com/user-attachments/assets/016fb5b7-7c3a-4181-9113-c15c44b6eb42" />
 <img width="1412" height="306" alt="image" src="https://github.com/user-attachments/assets/0a0262c6-fd6b-40de-b7f4-0b5694e7de64" />
-<img width="1447" height="546" alt="image" src="https://github.com/user-attachments/assets/b055a648-e0b3-43fa-84be-f7947a589c38" />
+<img width="1447" height="546" alt="image" src="https://github.com/user-attachments/assets/b055a648-e0b3-43fa-84be-f7947a589c38" />                  
+
+
+
+
 
 
 
