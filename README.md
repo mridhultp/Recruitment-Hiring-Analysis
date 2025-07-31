@@ -74,7 +74,7 @@ This dashboard is designed to track and analyze recruitment and hiring activitie
 
 ⚫ Leverage fast sources – Focus on Direct, Portal, Campus.
 
-⚫Monitor high compensation outliers: Identify roles or hires with unusually high salaries and assess alignment with internal benchmarks.
+⚫Monitor high compensation outliers:  Roles or hires with unusually high salaries and assess alignment with internal benchmarks.
 
 
 
