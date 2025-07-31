@@ -13,14 +13,6 @@ This dashboard is designed to track and analyze recruitment and hiring activitie
 
 
 
-
-
-
-<img width="1403" height="790" alt="image" src="https://github.com/user-attachments/assets/35e13a88-7ad5-4e3f-956e-a3ee008eb819" />
-
-
-
-
 # Hiring Volume
 
 ⚫Out of 762 onboarded candidates, 431 (56.56%) were hired within TAT, while 331 (43.44%) exceeded the defined timelines.
@@ -75,6 +67,8 @@ This dashboard is designed to track and analyze recruitment and hiring activitie
 ⚫The majority of hires were within the 31–40 age group, followed by the 21–30 range, with an average age of 32.08 for males and 31.90 for females.
 
 
+
+<img width="1403" height="790" alt="image" src="https://github.com/user-attachments/assets/35e13a88-7ad5-4e3f-956e-a3ee008eb819" />
 
 
 **Note:** Data doesn't have any confidential information and worked on the dummy data.
