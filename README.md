@@ -1,4 +1,4 @@
-# Recruitment-Hiring-Analysis (WIP - Excel-Dashboard)
+# Recruitment-Hiring-Analysis ( Excel-Dashboard)
 
 
 This dashboard is designed to track and analyze recruitment and hiring activities within an organization. It consolidates key recruitment metrics and visualizations to help stakeholders monitor hiring trends, employee demographics, and compensation patterns. Basically every reporting analyst analyses if business goals are met accurately within SLA. Here I’m trying to analyse the HR data with both Power BI and Excel.
